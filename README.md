@@ -1,2 +1,3 @@
-# Bash
-Fazz | Bash Programlama Notları
+# Fazz | Linux & Bash Scripting Notes
+
+
