@@ -1,0 +1,2 @@
+# Fazz | GPL Nedir?
+
