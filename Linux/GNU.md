@@ -8,3 +8,13 @@
 * Hurd çekirdeği yerini Linux çekirdeğine bırakmıştır. Böylelikle GNU bir Shell (kabuk); Linux ise bir Kernel (Çekirdek)'tir.
 * Linux, Genel kamu Lisansı (General Public Licance / GPL) ile sunulan , Linux vakfı  tarafından sahiplenilen ve geliştirilen bir özgür yazılım projesidir.
 * Özgür yazılımların bir çatı altına toplanmasını ve kullanımını amaçlamış bir projedir.  
+
+<h3>GNU/Linux'un Özellikleri</h3>
+
+* Güvenlik
+* Stabillik
+* Esneklik
+* Desteklik
+
+**Açık kaynak kodlu olduğu için bu özelliklerini, dünya çapındaki binlerce geliştiricinin katkı sunması ile sağlar.**
+
