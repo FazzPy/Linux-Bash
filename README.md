@@ -28,6 +28,7 @@
 * [User Management](https://github.com/FazzPy/Linux-Bash/blob/main/Linux/UserManagining.md)
 * [Disk Management](https://github.com/FazzPy/Linux-Bash/blob/main/Linux/DiskManagement.md)
 * [Server Management - 1](https://github.com/FazzPy/Linux-Bash/blob/main/Linux/ServerManagining.md)
+* [Domain Controller Server](https://github.com/FazzPy/Linux-Bash/blob/main/Linux/DCServer.md)
 
 [Documents](https://github.com/FazzPy/Linux-Bash/tree/main/Linux)
 
